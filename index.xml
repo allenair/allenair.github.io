@@ -6,10 +6,19 @@
     <description>Recent content on Allen Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://allenair.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>智能时代读书笔记</title>
+      <link>https://allenair.github.io/post/blog181121/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://allenair.github.io/post/blog181121/</guid>
+      <description>智能时代读书笔记 alphago战胜李世石，宣告了机器智能时代的到来； 机器获得智能的方式和人类不同，它不是靠逻辑推理，而是靠大数据和智能算法；</description>
+    </item>
     
     <item>
       <title>尝试Go语言</title>
