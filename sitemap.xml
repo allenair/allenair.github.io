@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://allenair.github.io/post/blog181125/</loc>
+    <lastmod>2018-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://allenair.github.io/post/blog181122/</loc>
     <lastmod>2018-11-22T00:00:00+00:00</lastmod>
   </url>
@@ -29,7 +34,7 @@
   
   <url>
     <loc>https://allenair.github.io/</loc>
-    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -53,13 +58,13 @@
   
   <url>
     <loc>https://allenair.github.io/categories/book/</loc>
-    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://allenair.github.io/categories/</loc>
-    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -71,7 +76,7 @@
   
   <url>
     <loc>https://allenair.github.io/post/</loc>
-    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -106,6 +111,12 @@
   </url>
   
   <url>
+    <loc>https://allenair.github.io/tags/%E5%8E%86%E5%8F%B2/</loc>
+    <lastmod>2018-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://allenair.github.io/tags/%E6%99%BA%E8%83%BD%E6%97%B6%E4%BB%A3/</loc>
     <lastmod>2018-11-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -125,7 +136,7 @@
   
   <url>
     <loc>https://allenair.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
